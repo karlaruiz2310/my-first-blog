@@ -1,9 +1,9 @@
 .page-header {
     background-color: #c25100;
     margin-top: 0;
-    
     padding: 20px 20px 20px 40px;
  }
+
 .page-header h1,
 .page-header h1 a,
 .page-header h1 a:visited,
@@ -11,10 +11,10 @@
     color: #ffffff;
     font-size: 36pt;
     text-decoration: none;
-    }
+}
 .content {
     margin-left: 40px;
-    }
+}
 h1,
 h2,
 h3,
